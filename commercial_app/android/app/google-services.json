@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115933775681",
+    "project_id": "commercial-app-20b21",
+    "storage_bucket": "commercial-app-20b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115933775681:android:1289b1b4a6b0bf43e683c0",
+        "android_client_info": {
+          "package_name": "com.example.commercial_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXfXYM2_NyFK5lFD5gksTnw6X72Y_WTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
